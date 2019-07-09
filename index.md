@@ -28,7 +28,7 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
   <td valign="top" >Components</td>
-  <td valign="top" ><A HREF="https://hidglobal.github.io/digitalpersona-core/readme.html">digitalpersona-core</A></td>
+  <td valign="top" ><A HREF="https://hidglobal.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
     <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
   <tr>
