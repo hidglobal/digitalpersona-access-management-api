@@ -28,37 +28,37 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
   <td valign="top" >Components</td>
-  <td valign="top" ><A HREF="https://github.com/hidglobal/digitalpersona-core/readme.md">digitalpersona-core</A></td>
+  <td valign="top" ><A HREF="•	https://hidglobal.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
     <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-services/index.html">digitalpersona-services</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-services/index.html">digitalpersona-services</A></td>
     <td>JS wrappers for the Web Access Services shared by the authentication and enrollment APIs</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-access-management-services/index.html">digitalpersona-access-management-services</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-access-management-services/index.html">digitalpersona-access-management-services</A></td>
     <td>[TBD]</td>
   </tr>  
   <tr>
   <td>&nbsp;</td>
-  <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
+  <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
     <td>API enabling credential authentication</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-      <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
+      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
     <td>API enabling credential enrollment</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-devices/index.html">digitalpersona-devices</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-devices/index.html">digitalpersona-devices</A></td>
     <td>API providing access to devices supported by the DigitalPersona Access Mangement API.</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-api/index.html">digitalpersona-native-api</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/index.html">digitalpersona-native-api</A></td>
     <td>API providing native Windows implementation of enrollment, authentication and device access.</td>
   </tr>
   <tr>
