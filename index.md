@@ -72,8 +72,8 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">digitalpersona-oidc-sample</A></td>
-    <td>Sample application using OpenID Connect that illustrates web authentication, enrollment and device access.</td>
+    <td  valign="top"><A HREF="https://hidglobal/github.io/digitalpersona-sample-js-oidc/index.html">digitalpersona-sample-js-oidc</A></td>
+    <td>Sample JavaScript application using OpenID Connect that illustrates web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
