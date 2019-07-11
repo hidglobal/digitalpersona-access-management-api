@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 2  
 ---
 
-###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Core components  
+###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-access-management-api/)/ Core components  
 
 ![](assets/HID-logo.png)  
 
@@ -15,8 +15,8 @@ The DigitalPersona Core Components contains the core classes and functions share
 
 To view the digitalpersona-core GitHub Pages *documentation*,  click the following link.
 
-[Digitalpersona Core Components documentation](https://lenhodgeman.github.io/digitalpersona-core/)
+[Digitalpersona Core Components documentation](https://hidglobal.github.io/digitalpersona-core/)
 
 To view the digitalpersona-core *repository*,  click this link.
 
-[Digitalpersona Core Components repository](https://github.com/LenHodgeman/digitalpersona-core/)
+[Digitalpersona Core Components repository](https://github.com/hidglobal/digitalpersona-core/)

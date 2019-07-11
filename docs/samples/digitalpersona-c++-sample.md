@@ -14,8 +14,8 @@ The DigitalPersona Sample Application ... [TBD]
 
 To view the digitalpersona-c++-sample GitHub Pages *documentation*,  click the following link.
 
-[Digitalpersona C++ Sample Application  documentation](https://lenhodgeman.github.io/digitalpersona-c++-sample/)
+[Digitalpersona C++ Sample Application  documentation](https://hidglobal.github.io/digitalpersona-sample-cpp/)
 
 To view the digitalpersona-c++-sample *repository*,  click this link.
 
-[Digitalpersona C++ Sample Application repository](https://github.com/LenHodgeman/digitalpersona-c++-sample/)
+[Digitalpersona C++ Sample Application repository](https://github.com/hidglobal/digitalpersona-c++-sample/)

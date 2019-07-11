@@ -14,8 +14,8 @@ The DigitalPersona .NET Sample Application ... [TBD]
 
 To view the digitalpersona-net-sample GitHub Pages *documentation*,  click the following link.
 
-[Digitalpersona .NET Sample Application  documentation](https://lenhodgeman.github.io/digitalpersona-net-sample/)
+[Digitalpersona .NET Sample Application  documentation](https://hidglobal.github.io/digitalpersona-sample-dotnet/)
 
 To view the digitalpersona-net-sample *repository*,  click this link.
 
-[Digitalpersona .NET Sample Application repository](https://github.com/LenHodgeman/digitalpersona-net-sample/)
+[Digitalpersona .NET Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-dotnet/)

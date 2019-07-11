@@ -62,22 +62,22 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td  valign="top">Sample Applications</td>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-javascript-sample-application</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">digitalpersona-javascript-sample-application</A></td>
     <td>Sample web application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
     <td>Sample application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
-    <td  valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-web-sample/index.html">digitalpersona-oidc-sample</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">digitalpersona-oidc-sample</A></td>
     <td>Sample application using OpenID Connect that illustrates web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://lenhodgeman.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
     <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
   </tr>
 </table>
@@ -125,7 +125,7 @@ See the DigitalPersona Administrator and Client Guides for instructions on insta
 The recommended minimum software requirements needed to develop applications with the DigitalPersona Native API are:
 * Development workstation running Windows 7 or later and DigitalPersona Workstation or Kiosk.
 
-* To compile the sample code: Visual Studio 2008 or later.
+* To compile the sample code: <mark style="color:Red;">Visual Studio 2008 or later</mark>.
 DigitalPersona Server running Windows Server 2012 and DigitalPersona AD or LDS Server.
 
 * DigitalPersona Server running Windows Server 2012 and DigitalPersona AD or LDS Server.

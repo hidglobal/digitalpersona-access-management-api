@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 7  
 ---
 
-###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Devices API  
+###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-access-management-api/)/ Devices API  
 
 ![](assets/HID-logo.png)  
 
@@ -15,8 +15,8 @@ The DigitalPersona Devices API provides access to devices supported by the Digit
 
 To view the digitalpersona-devices GitHub Pages *documentation*, click the following link.
 
-[Digitalpersona Devices API documentation](https://lenhodgeman.github.io/digitalpersona-devices/)
+[Digitalpersona Devices API documentation](https://hidglobal.github.io/digitalpersona-devices/)
 
 To view the digitalpersona-devices *repository*, click this link.
 
-[Digitalpersona Devices API repository](https://github.com/LenHodgeman/digitalpersona-devices/)
+[Digitalpersona Devices API repository](https://github.com/hidglobal/digitalpersona-devices/)
