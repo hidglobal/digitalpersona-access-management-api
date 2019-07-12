@@ -9,7 +9,6 @@ nav_order: 8
 
 ###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-access-management-api/)/ Sample Applications
 
-
 ![](../assets/HID-logo.png)  
 
 ## Sample Applications
@@ -24,6 +23,6 @@ Use the following links to view documentation for each sample application. Links
 
 [Digitalpersona web sample application](https://hidglobal.github.io/digitalpersona-web-sample/)
 
-[Digitalpersona C++ sample application](https://hidglobal.github.io/digitalpersona-native-samples/)
+[Digitalpersona C++ sample application](https://hidglobal.github.io/digitalpersona-samples-cpp/)
 
-[Digitalpersona .NET sample application](https://hidglobal.github.io/digitalpersona-native-samples/)
+[Digitalpersona .NET sample application](https://hidglobal.github.io/digitalpersona-sample-dotnet/)
