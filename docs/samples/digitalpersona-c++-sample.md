@@ -18,4 +18,4 @@ To view the digitalpersona-c++-sample GitHub Pages *documentation*,  click the f
 
 To view the digitalpersona-c++-sample *repository*,  click this link.
 
-[Digitalpersona C++ Sample Application repository](https://github.com/hidglobal/digitalpersona-c++-sample/)
+[Digitalpersona C++ Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-cpp/)
