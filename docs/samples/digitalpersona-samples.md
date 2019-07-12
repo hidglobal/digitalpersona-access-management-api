@@ -23,6 +23,6 @@ Use the following links to view documentation for each sample application. Links
 
 [Digitalpersona web sample application](https://hidglobal.github.io/digitalpersona-web-sample/)
 
-[Digitalpersona C++ sample application](https://hidglobal.github.io/digitalpersona-samples-cpp/)
+[Digitalpersona C++ sample application](https://hidglobal.github.io/digitalpersona-sample-cpp/)
 
 [Digitalpersona .NET sample application](https://hidglobal.github.io/digitalpersona-sample-dotnet/)
