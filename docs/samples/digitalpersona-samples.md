@@ -19,7 +19,7 @@ Use the following links to view documentation for each sample application. Links
 
 [Digitalpersona JavaScript sample application](https://hidglobal.github.io/digitalpersona-javascript-sample-app/)
 
-[OpenID Connect (OIDC) sample application](https://hidglobal.github.io/digitalpersona-oidc-sample-app/)
+[OpenID Connect (OIDC) sample application](https://hidglobal.github.io/digitalpersona-sample-js-oidc/)
 
 [Digitalpersona web sample application](https://hidglobal.github.io/digitalpersona-web-sample/)
 
