@@ -5,9 +5,7 @@ has_toc: false
 nav_order: 4
 ---
 
-###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-access-management-api/)/ Authentication API  
-
-![](assets/HID-logo.png)  
+{% include header.html %}  
 
 ## Authentication API  
 

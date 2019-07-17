@@ -5,9 +5,7 @@ has_toc: false
 nav_order: 6
 ---
 
-###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-access-management-api/)/ Enrollment API  
-
-![](assets/HID-logo.png)  
+{% include header.html %}  
 
 ## Enrollment API  
 

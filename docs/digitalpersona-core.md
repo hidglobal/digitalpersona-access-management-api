@@ -5,9 +5,7 @@ has_toc: false
 nav_order: 2  
 ---
 
-###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-access-management-api/)/ Core components  
-
-![](assets/HID-logo.png)  
+{% include header.html %} 
 
 ## Core Components  
 

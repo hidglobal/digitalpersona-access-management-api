@@ -5,9 +5,7 @@ has_toc: false
 nav_order: 8
 ---
 
-###### [DigitalPersona Access Management API ](https://hidglobal.github.io/digitalpersona-native-api/)/ Native API
-
-![](assets/HID-logo.png)
+{% include header.html %}
 
 ## Native API
 
