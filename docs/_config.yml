@@ -4,6 +4,6 @@ search_enabled: true
 
 aux_links:
   "[Download Overview PDF]":
-    - "{{ site.url }}/docs/assets/DigitalPersona-Access-Management-API.pdf"
+    - "https://github.com/hidglobal/digitalpersona-access-management-api/docs/assets/DigitalPersona-Access-Management-API.pdf"
   "[View Repo]":
     - "https://github.com/hidglobal/digitalpersona-access-management-api/"
