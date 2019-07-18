@@ -7,7 +7,7 @@ nav_order: 1
 {% include header.html %}
 <BR>
 
-## Overview  1
+## Overview  2
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built web-based and native Windows applications.  
 
@@ -62,7 +62,7 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td  valign="top">Sample Applications</td>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">digitalpersona-javascript-sample-application</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-javascript-sample-application/index.html">digitalpersona-javascript-sample-application</A></td>
     <td>Sample web application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
