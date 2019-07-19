@@ -21,9 +21,6 @@ Use the following links to view documentation for each sample application. Links
     <th style="width:35%" ALIGN="left">Sample Application</th>
     <th style="width:45%" ALIGN="left">Description</th>
   </tr>
-  <tr>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-javascript-sample-application/index.html">digitalpersona-javascript-sample-application</A></td>
-    <td>Sample web application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-angularjs/index.html">digitalpersona-sample-angularjs</A></td>
@@ -35,7 +32,7 @@ Use the following links to view documentation for each sample application. Links
   </tr>
   <tr>
     <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-js-oidc/">digitalpersona-sample-js-oidc</A></td>
-    <td>Sample application built on the AngularJS foundation and using OpenID Connect to access DigitalPersona features such as web authentication, enrollment and device access.</td>    
+    <td>Sample application built on the AngularJS foundation and using OpenID Connect to access HID DigitalPersona AD features such as web authentication, enrollment and device access.</td>    
   </tr>
   <tr>
     <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
