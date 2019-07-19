@@ -6,7 +6,8 @@ parent: Sample Applications
 nav_order: 2  
 ---
 
-![](../assets/HID-logo.png)
+{% include header.html %}
+<BR>
 
 ## Open ID Connect Sample Application
 

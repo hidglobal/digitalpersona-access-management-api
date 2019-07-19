@@ -6,7 +6,8 @@ parent: Sample Applications
 nav_order: 5  
 ---
 
-![](../assets/HID-logo.png)  
+{% include header.html %}
+<BR>
 
 ## .NET Sample Application
 

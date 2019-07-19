@@ -6,7 +6,8 @@ has_toc: false
 nav_order: 1  
 ---
 
-![](../assets/HID-logo.png)  
+{% include header.html %}
+<BR>
 
 ## JavaScript Sample Application
 

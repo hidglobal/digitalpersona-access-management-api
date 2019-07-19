@@ -6,7 +6,8 @@ parent: Sample Applications
 nav_order: 3  
 ---
 
-![](../assets/HID-logo.png)  
+{% include header.html %}
+<BR>
 
 ## Web Sample Application
 
