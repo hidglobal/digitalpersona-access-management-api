@@ -27,10 +27,6 @@ Use the following links to view documentation for each sample application. Links
     <td>Bank of DigitalPersona sample application illustrating web user creation,  enrollment, device access and authentication utilizing the DigitalPersona LDS solution.</td>
   </tr>  
   <tr>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/sample-applications.html">digitalpersona-web-sample</A></td>
-    <td>Sample JavaScript application illustrating web authentication, enrollment and device access.</td>
-  </tr>
-  <tr>
     <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-js-oidc/">digitalpersona-sample-js-oidc</A></td>
     <td>Sample application built on the AngularJS foundation and using OpenID Connect to access HID DigitalPersona AD features such as web authentication, enrollment and device access.</td>    
   </tr>
