@@ -9,7 +9,7 @@ nav_order: 5
 {% include header.html %}
 <BR>
 
-## .NET Sample Application
+# .NET Sample Application
 
 The DigitalPersona .NET Sample Application ... [TBD]
 

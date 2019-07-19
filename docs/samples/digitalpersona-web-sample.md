@@ -9,7 +9,7 @@ nav_order: 3
 {% include header.html %}
 <BR>
 
-## Web Sample Application
+# Web Sample Application
 
 The DigitalPersona Web Sample Application ... [TBD]
 

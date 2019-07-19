@@ -9,7 +9,7 @@ nav_order: 2
 {% include header.html %}
 <BR>
 
-## Open ID Connect Sample Application
+# Open ID Connect Sample Application
 
 The DigitalPersona Open ID Connect Sample Application ... [TBD]
 

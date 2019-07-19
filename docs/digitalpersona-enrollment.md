@@ -8,7 +8,7 @@ nav_order: 6
 {% include header.html %}  
 <BR>
 
-## Enrollment API  
+# Enrollment API  
 
 The DigitalPersona Enrollment API enables enrollment of supported credentials within your web application.
 

@@ -8,7 +8,7 @@ nav_order: 8
 {% include header.html %}
 <BR>
 
-## Native API
+# Native API
 
 The DigitalPersona Native API allows the developer to add DigitalPersona authentication, enrollment and device access to their Windows applications.
 

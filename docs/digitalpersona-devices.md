@@ -8,7 +8,7 @@ nav_order: 7
 {% include header.html %}  
 <BR>
 
-## Devices API  
+# Devices API  
 
 The DigitalPersona Devices API provides access to devices supported by the DigitalPersona Access Management API.
 

@@ -9,7 +9,7 @@ nav_order: 1
 {% include header.html %}
 <BR>
 
-## JavaScript Sample Application
+# JavaScript Sample Application
 
 The DigitalPersona JavaScript Application ... [TBD]
 

@@ -8,7 +8,7 @@ nav_order: 2
 {% include header.html %}
 <BR>
 
-## Core Components  
+# Core Components  
 
 The DigitalPersona Core Components contains the core classes and functions shared by the DigitalPersona Access Management APIs.
 

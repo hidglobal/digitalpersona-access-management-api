@@ -8,7 +8,7 @@ nav_order: 3
 {% include header.html %}
 <BR>
 
-## Web Access Services  
+# Web Access Services  
 
 The DigitalPersona Web Access Services provide JavaScript wrappers for Web Access services shared by the authentication and enrollment APIs.
 
