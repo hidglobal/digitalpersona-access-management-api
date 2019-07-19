@@ -17,7 +17,8 @@ This documentation is divided into several sections that align with the specific
 
 To read an overview of each section, on desktop browsers, use the links on the left. For mobile browsers, use the Menu button at the top of the screen.
 
-To go directly to detailed documentation on an item, use the links below to view the GitHub Pages documentation provided with each item's repository. [View Repo] links to the associated repository are provided in the upper-right corner of the page.
+* To read the provided documentation for an item, use the links below to view the GitHub Pages for that repository.
+* To go to the actual repository, click the [View Repo] link in the upper-right corner of the page.
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
