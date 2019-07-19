@@ -16,16 +16,6 @@ The DigitalPersona Sample Applications illustrate use of the web and native Wind
 
 Use the following links to view documentation for each sample application. Links to the associated repositories are provided in the documentation.
 
-[Digitalpersona JavaScript sample application](https://hidglobal.github.io/digitalpersona-javascript-sample-app/)
-
-[OpenID Connect (OIDC) sample application](https://hidglobal.github.io/digitalpersona-sample-js-oidc/)
-
-[Digitalpersona web sample application](https://hidglobal.github.io/digitalpersona-web-sample/)
-
-[Digitalpersona C++ sample application](https://hidglobal.github.io/digitalpersona-sample-cpp/)
-
-[Digitalpersona .NET sample application](https://hidglobal.github.io/digitalpersona-sample-dotnet/)
-
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
     <th style="width:35%" ALIGN="left">Sample Application</th>
