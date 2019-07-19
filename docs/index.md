@@ -79,7 +79,7 @@ To go directly to detailed documentation on an item, use the links below to view
 
 For web-based applications, you can use the Authentication or Enrollment APIs directly, or through the relevant JavaScript wrappers to enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or through custom policies defined by your application, and subsequently release their users’ protected data (secrets).
 
-For Windows native applications, the Native API provides an API which can accessed through either C++ or .NET applications.
+For Windows native applications, the Native API provides an API which can accessed through either [C++](https://hidglobal.github.io/digitalpersona-sample-cpp/index.html) or [.NET]((https://hidglobal.github.io/digitalpersona-sample-dotnet/index.html)) applications.
 
 All of the authentication credentials provided in the HID DigitalPersona solution are supported through the corresponding APIs except for the Face credential (for web APIs) and the Bluetooth credential (web and Windows APIs).
 
