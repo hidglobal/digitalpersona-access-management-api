@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Overview
-nav_exclude: true 
+nav_exclude: true
 ---
-###### [\| Download PDF \|](docs\assets\DigitalPersona Access Management API.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[\| View Repo \|](https://github.com/hidglobal/digitalpersona-access-management-api/)&nbsp;&nbsp;&nbsp;&nbsp;| REVIEW DRAFT  |  
+{% include header.html %}  
+<BR>  
 
-![](docs/assets/HID-logo.png)  
-
-## Overview  
+# Overview
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built web-based and native Windows applications.  
 
@@ -108,9 +107,9 @@ You can refer to the additional resources described in this section to assist yo
   </tr>
 </table>
 
-## System Requirements
-### Development system
-#### REST APIs
+# System Requirements
+## Development system
+### REST APIs
 In addition to the requirements listed above, the following are required for use of the Web AUTH and Web Enrollment APIs.
 
 * Windows Web Server (IIS)
