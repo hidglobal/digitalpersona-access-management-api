@@ -30,7 +30,7 @@ Use the following links to view documentation for each sample application. Links
     <td>Bank of DigitalPersona sample application illustrating web user creation,  enrollment, device access and authentication utilizing the DigitalPersona LDS solution.</td>
   </tr>  
   <tr>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/sample-applications.html">digitalpersona-web-sample</A></td>
     <td>Sample JavaScript application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
