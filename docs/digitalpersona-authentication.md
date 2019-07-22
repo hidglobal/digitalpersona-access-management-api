@@ -8,7 +8,7 @@ nav_order: 4
 {% include header.html %}  
 <BR>
 
-#Authentication API  
+# Authentication API  
 
 The DigitalPersona Authentication API is used to implement authentication of supported credentials in your web-based application.
 
