@@ -39,7 +39,7 @@ To read an overview of each section, on desktop browsers, use the links on the l
   <tr>
     <td>&nbsp;</td>
     <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-access-management-services/index.html">digitalpersona-access-management-services</A></td>
-    <td>The DigitalPersona Access Management Services are a collection of RESTful services used to implement various features of the DigitalPersona solution in web applications.</td>
+    <td>A collection of RESTful services used to implement various features of the DigitalPersona solution in web applications.</td>
   </tr>  
   <tr>
   <td>&nbsp;</td>
