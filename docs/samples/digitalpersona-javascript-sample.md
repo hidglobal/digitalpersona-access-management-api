@@ -3,7 +3,7 @@ layout: default
 title: JavaScript Sample Application
 parent: Sample Applications
 has_toc: false
-nav_order: 1  
+nav_order: 3  
 ---
 
 {% include header.html %}
