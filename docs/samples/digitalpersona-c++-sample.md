@@ -3,7 +3,7 @@ layout: default
 title: C++ Sample Application
 has_toc: false
 parent: Sample Applications
-nav_order: 6  
+nav_order: 5  
 ---
 
 {% include header.html %}

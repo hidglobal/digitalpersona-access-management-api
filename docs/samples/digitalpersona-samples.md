@@ -4,7 +4,7 @@ title: Sample Applications
 has_children: true
 permalink: /samples
 has_toc: false
-nav_order: 8
+nav_order: 7
 ---
 
 {% include header.html %}
