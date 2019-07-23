@@ -3,7 +3,7 @@ layout: default
 title: C++ Sample Application
 has_toc: false
 parent: Sample Applications
-nav_order: 4  
+nav_order: 7  
 ---
 
 {% include header.html %}
@@ -11,7 +11,7 @@ nav_order: 4
 
 # C++ Sample Application
 
-The DigitalPersona Sample Application ... [TBD]
+The DigitalPersona C++ Sample Application ... [TBD]
 
 To view the digitalpersona-c++-sample GitHub Pages *documentation*,  click the following link.
 
