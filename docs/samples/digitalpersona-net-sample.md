@@ -2,8 +2,7 @@
 layout: default
 title: .NET Sample Application
 has_toc: false
-parent: Sample Applications
-nav_order: 13  
+nav_exclude: true 
 ---
 
 {% include header.html %}
