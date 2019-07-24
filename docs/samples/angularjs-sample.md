@@ -3,7 +3,7 @@ layout: default
 title: AngularJS Sample Application
 has_toc: false
 parent: Sample Applications
-nav_order: 1  
+nav_order: 10  
 ---
 
 {% include header.html %}

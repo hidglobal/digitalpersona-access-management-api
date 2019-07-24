@@ -4,7 +4,7 @@ title: Sample Applications
 has_children: true
 permalink: /samples
 has_toc: false
-nav_order: 7
+nav_order: 9
 ---
 
 {% include header.html %}
@@ -27,10 +27,10 @@ Use the following links to view documentation for each sample application. Links
   </tr>  
   <tr>
     <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-js-oidc/">digitalpersona-sample-js-oidc</A></td>
-    <td>Sample application built on the AngularJS foundation and using OpenID Connect to access HID DigitalPersona AD features such as web authentication, enrollment and device access.</td>    
+    <td>Sample web application built on the AngularJS foundation and using OpenID Connect to access HID DigitalPersona AD features such as web authentication, enrollment and device access.</td>    
   </tr>
   <tr>
     <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
-    <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
+    <td valign="top">Sample native Windows applications in [C++](digitalpersona-c++-sample.html) and [.NET](digitalpersona-net-sample.html), illustrating Windows enrollment, authentication and device access.</td>
   </tr>
 </table>
