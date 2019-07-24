@@ -11,7 +11,7 @@ nav_order: 11
 
 # Open ID Connect Sample Application
 
-The DigitalPersona Open ID Connect Sample Application ... [TBD]
+The DigitalPersona Open ID Connect Sample Application is a JavaScript application using OpenID Connect to access HID DigitalPersona AD features such as web authentication, enrollment and device access.
 
 To view the digitalpersona-oidc-sample GitHub Pages *documentation*,  click the following link.
 
