@@ -30,7 +30,7 @@ Use the following links to view documentation for each sample application. Links
     <td>Sample web application built on the AngularJS foundation and using OpenID Connect to access HID DigitalPersona AD features such as web authentication, enrollment and device access.</td>    
   </tr>
   <tr>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/index.html">digitalpersona-native-samples</A></td>
     <td valign="top">Sample native Windows applications in <A HREF="https://hidglobal.github.io/digitalpersona-access-management-api/samples/digitalpersona-c++-sample.html">C++</A> and <A HREF="https://hidglobal.github.io/digitalpersona-access-management-api/samples/digitalpersona-native-api-samples.html">.NET</A>, illustrating Windows enrollment, authentication and device access.</td>
   </tr>
 </table>
