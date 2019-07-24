@@ -31,6 +31,6 @@ Use the following links to view documentation for each sample application. Links
   </tr>
   <tr>
     <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
-    <td valign="top">Sample native Windows applications in <A HREF="https://github.io/digitalpersona-access-management-api/digitalpersona-c++-sample.html">C++</A> and <A HREF="https://github.io/digitalpersona-access-management-api/digitalpersona-net-sample.html">.NET</A>, illustrating Windows enrollment, authentication and device access.</td>
+    <td valign="top">Sample native Windows applications in <A HREF="https://hidglobal.github.io/digitalpersona-access-management-api/samples/digitalpersona-c++-sample.html">C++</A> and <A HREF="https://hidglobal.github.io/digitalpersona-access-management-api/samples/digitalpersona-net-sample.html">.NET</A>, illustrating Windows enrollment, authentication and device access.</td>
   </tr>
 </table>
