@@ -2,7 +2,6 @@
 layout: default
 title: Web Sample Application
 has_toc: false
-parent: Sample Applications
 nav_exclude: true  
 ---
 
