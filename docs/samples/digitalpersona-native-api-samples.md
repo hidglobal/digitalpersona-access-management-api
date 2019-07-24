@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Web Sample Application
+title: Native API Sample Applications
 has_toc: false
 parent: Sample Applications
 nav_order: 12
