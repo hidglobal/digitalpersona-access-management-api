@@ -74,7 +74,7 @@ To read an overview of each section, on desktop browsers, use the links on the l
   <tr>
     <td  valign="top">&nbsp;</td>  
     <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/sample-applications.html">digitalpersona-native-samples</A></td>
-    <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
+    <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows and web-based enrollment, authentication and device access.</td>
   </tr>
 </table>
 
