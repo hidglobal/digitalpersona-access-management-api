@@ -10,12 +10,12 @@ nav_exclude: true
 
 # Web Sample Application
 
-The DigitalPersona Web Sample Application ... [TBD]
+The DigitalPersona Web Sample Application ilustrates the features and functions that can be used to build a web-based client for use with the DigitalPersona AD or LDS Server.
 
-To view the digitalpersona-web-sample GitHub Pages *documentation*,  click the following link.
+To view the HID DigitalPersona Web Sample Application *documentation*,  click the following link.
 
-[Digitalpersona Web Sample Application  documentation](https://hidglobal.github.io/digitalpersona-web-sample/)
+[Digitalpersona Web Sample Application  documentation](https://hidglobal.github.io/digitalpersona-sample-web/)
 
 To view the digitalpersona-web-sample *repository*,  click this link.
 
-[Digitalpersona Web Sample Application repository](https://github.com/hidglobal/digitalpersona-web-sample/)
+[Digitalpersona Web Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-web/)
