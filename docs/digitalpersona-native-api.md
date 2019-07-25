@@ -10,12 +10,12 @@ nav_order: 8
 
 # Native API
 
-The DigitalPersona Native API allows the developer to add DigitalPersona authentication, enrollment and device access to their Windows applications.
+The HID DigitalPersona Native API allows the developer to add DigitalPersona authentication, enrollment and device access to their Windows applications.
 
-To view the digitalpersona-services GitHub Pages *documentation*, click the following link.
+To view the HID DigitalPersona Native API *documentation*, click the following link.
 
 [Digitalpersona Native API documentation](https://hidglobal.github.io/digitalpersona-native-api/)
 
-To view the digitalpersona-services *repository*, click this link.
+To view the digitalpersona-native-api  *repository*, click this link.
 
 [Digitalpersona Native API repository](https://github.com/hidglobal/digitalpersona-native-api/)
