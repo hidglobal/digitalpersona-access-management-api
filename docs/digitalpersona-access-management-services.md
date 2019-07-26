@@ -21,7 +21,7 @@ These services are:
 
 The last three of the services mentioned above were formerly part of the DigitalPersona Web AUTH SDK.
 
-To view the digitalpersona-access-management-services GitHub Pages *documentation*, click the following link.
+To view the Access Management Services documentation, click the following link.
 
 [Digitalpersona Access Management Services documentation](https://hidglobal.github.io/digitalpersona-access-management-services/)
 
