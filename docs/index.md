@@ -120,7 +120,7 @@ See the HID DigitalPersona Administrator and Client Guides for instructions on i
 ### Native API
 The recommended minimum software requirements needed to develop applications with the DigitalPersona Native API are:
 * Development workstation running Windows 7 or later and HID DigitalPersona Workstation or Kiosk.
-* To compile the sample code: <mark style="color:Red;">Visual Studio 2008 or later</mark>.
+* To compile the sample code: <mark style="color:Red;">Visual Studio 2012 or later</mark>.
 HID DigitalPersona Server running Windows Server 2012 and HID DigitalPersona AD or LDS Server.
 * HID DigitalPersona Server running Windows Server 2012 and HID DigitalPersona AD or LDS Server.
 
