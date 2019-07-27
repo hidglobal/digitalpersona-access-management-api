@@ -12,7 +12,7 @@ nav_order: 4
 
 The DigitalPersona Authentication API is used to implement authentication of supported credentials in your web-based application.
 
-To view the digitalpersona-authentication GitHub Pages *documentation*, click the following link.
+To view the Authentication API documentation, click the following link.
 
 [Digitalpersona Authentication API documentation](https://hidglobal.github.io/digitalpersona-authentication/)
 
