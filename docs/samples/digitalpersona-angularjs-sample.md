@@ -11,7 +11,7 @@ nav_order: 10
 
 # AngularJS Sample Application
 
-The DigitalPersona AngularJS Sample Application creates afictional Bank of DigitalPersona web application illustrating employee and customer  user creation and enrollment, device access and authentication, utilizing the DigitalPersona LDS solution.
+The DigitalPersona AngularJS Sample Application creates a fictional Bank of DigitalPersona web application illustrating employee and customer user creation and enrollment, device access and authentication, utilizing the DigitalPersona LDS solution.
 
 View the [Digitalpersona AngularJS Sample Application  documentation](https://hidglobal.github.io/digitalpersona-sample-angularjs/) documentation.
 
