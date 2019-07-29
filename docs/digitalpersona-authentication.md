@@ -14,4 +14,4 @@ The DigitalPersona Authentication API is used to implement authentication of sup
 
 View the [Authentication API](https://hidglobal.github.io/digitalpersona-authentication/) documentation.
 
-View the [digitalpersona-authentication]((https://github.com/hidglobal/digitalpersona-authentication/) repository.  
+View the [digitalpersona-authentication](https://github.com/hidglobal/digitalpersona-authentication/) repository.  
