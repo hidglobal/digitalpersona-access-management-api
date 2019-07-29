@@ -12,10 +12,6 @@ nav_exclude: true
 
 The DigitalPersona C++ Sample Application ... [TBD]
 
-To view the digitalpersona-c++-sample GitHub Pages *documentation*,  click the following link.
+View the [Digitalpersona C++ Sample Application  documentation](https://hidglobal.github.io/digitalpersona-native-api#sample-applications.md/) documentation.
 
-[Digitalpersona C++ Sample Application  documentation](https://hidglobal.github.io/digitalpersona-native-api#sample-applications.md/)
-
-To view the digitalpersona-c++-sample *repository*,  click this link.
-
-[Digitalpersona C++ Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-cpp/)
+View the [Digitalpersona C++ Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-cpp/) repository.

@@ -22,8 +22,8 @@ Use the following links to view documentation for each sample application. Links
     <th style="width:45%" ALIGN="left">Description</th>
   </tr>
   <tr>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-angularjs/index.html">digitalpersona-sample-angularjs</A></td>
-    <td>Bank of DigitalPersona sample application illustrating web user creation,  enrollment, device access and authentication utilizing the DigitalPersona LDS solution.</td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-angularjs/docs/index.html">digitalpersona-sample-angularjs</A></td>
+    <td>Bank of DigitalPersona sample application illustrating web user creation, enrollment, device access and authentication utilizing the DigitalPersona LDS solution.</td>
   </tr>  
   <tr>
     <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-js-oidc/">digitalpersona-sample-js-oidc</A></td>

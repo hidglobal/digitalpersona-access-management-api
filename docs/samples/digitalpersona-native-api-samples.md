@@ -13,14 +13,10 @@ nav_order: 12
 
 The DigitalPersona Native API Sample Applications consist of an application written in C++ and one written in .NET.
 
-To view the documentation for the DigitalPersona Native API and its sample applications,  click the following link.
+View the [Native API documentation](https://hidglobal.github.io/digitalpersona-native-api/) documentation.
 
-[Digitalpersona Native API documentation](https://hidglobal.github.io/digitalpersona-native-api/)
+* View the [C++ Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-cpp/) repository.
 
-To view the repository for the DigitalPersona C++ sample application,  click this link.
+View the [.NET Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-dotnet/) repository.
 
-[Digitalpersona C++ Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-cpp/)
-
-To view the repository for the DigitalPersona .NET sample application,  click this link.
-
-[Digitalpersona .NET Sample Application repository](https://github.com/hidglobal/digitalpersona-sample-dotnet/)
+View the [Web Application repository](https://github.com/hidglobal/digitalpersona-sample-web/) repository.
