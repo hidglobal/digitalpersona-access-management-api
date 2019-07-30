@@ -11,7 +11,7 @@ nav_order: 12
 
 # Native API Sample Applications
 
-The DigitalPersona Native API Sample Applications consist of an application written in C++ and one written in .NET.
+The DigitalPersona Native API Sample Applications consist of Windows applications written in C++ and .NET,  and a web-based application built using the RESTful protocol.
 
 View the [Native API documentation](https://hidglobal.github.io/digitalpersona-native-api/) documentation.
 
