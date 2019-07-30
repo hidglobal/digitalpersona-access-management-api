@@ -74,11 +74,11 @@ This documentation is divided into several sections that align with the specific
   <tr>
     <td  valign="top">&nbsp;</td>  
     <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/sample-applications.html">digitalpersona-native-samples</A></td>
-    <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows and web-based enrollment, authentication and device access.</td>
+    <td valign="top">Sample native Windows applications in C++, .NET and RESTful services that illustrate Windows and web-based enrollment, authentication and device access.</td>
   </tr>
 </table>
 
-For web-based applications, you can use the Authentication or Enrollment APIs directly, or through the relevant JavaScript wrappers to enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or through custom policies defined by your application, and subsequently release their users’ protected data (secrets).
+For web-based applications, you can use the higher-level Authentication and  Enrollment APIs, or more directly through the RESTful services themselves, to enroll and authenticate DigitalPersona users quickly and easily against authentication policies as defined by the DigitalPersona administrator or through custom policies defined by your application, and subsequently release their users’ protected data (secrets).
 
 For Windows native applications, the Native API provides an API which can accessed through either [C++](https://hidglobal.github.io/digitalpersona-sample-cpp/index.html) or [.NET](https://hidglobal.github.io/digitalpersona-sample-dotnet/index.html) applications.
 
