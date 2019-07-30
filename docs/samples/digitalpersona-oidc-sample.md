@@ -2,8 +2,7 @@
 layout: default
 title: OIDC Sample Application
 has_toc: false
-parent: Sample Applications
-nav_order: 11  
+nav_exclude: true 
 ---
 
 {% include header.html %}

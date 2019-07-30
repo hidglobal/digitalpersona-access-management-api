@@ -2,8 +2,7 @@
 layout: default
 title: Native API Sample Applications
 has_toc: false
-parent: Sample Applications
-nav_order: 12
+nav_exclude: true
 ---
 
 {% include header.html %}

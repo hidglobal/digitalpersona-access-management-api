@@ -2,9 +2,8 @@
 layout: default
 title: Sample Applications
 has_children: true
-permalink: /samples
 has_toc: false
-nav_order: 9
+nav_exclude: true
 ---
 
 {% include header.html %}
