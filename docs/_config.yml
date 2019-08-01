@@ -3,9 +3,7 @@ title: ''
 search_enabled: true
 
 aux_links:
-  "Download Overview PDF":
-    - "https://github.com/hidglobal/digitalpersona-access-management-api/blob/master/docs/assets/DigitalPersona-Access-Management-API.pdf"
+  "[Download Overview PDF]":
+    - "assets/DigitalPersona-Access-Management-API.pdf"
   "[View Repo]":
     - "https://github.com/hidglobal/digitalpersona-access-management-api/"
-  "Test PDF":
-    - "assets/DigitalPersona-Access-Management-API.pdf"
