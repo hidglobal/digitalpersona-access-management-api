@@ -10,7 +10,7 @@ nav_order: 4
 
 # Web Authentication API  
 
-The DigitalPersona Authentication API is a higher-level JavaScript API used to implement authentication of supported credentials in your web-based application.
+The DigitalPersona Web Authentication API is a higher-level JavaScript API used to implement authentication of supported credentials in your web-based application.
 
 As an alternative, you can use the lower-level RESTful API described [here](https://hidglobal.github.io/digitalpersona-sample-web/).
 
