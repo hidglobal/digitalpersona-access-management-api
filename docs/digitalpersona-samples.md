@@ -3,7 +3,7 @@ layout: default
 title: Sample Applications
 has_children: true
 has_toc: false
-nav_exclude: true
+nav_order: 9
 ---
 
 {% include header.html %}
