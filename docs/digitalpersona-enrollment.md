@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Enrollment API
+title: Web Enrollment API
 has_toc: false
 nav_order: 6
 ---
@@ -8,10 +8,10 @@ nav_order: 6
 {% include header.html %}  
 <BR>
 
-# Enrollment API  
+# Web Enrollment API  
 
-The DigitalPersona Enrollment API enables enrollment of supported credentials within your web application.
+The DigitalPersona Web Enrollment API enables enrollment of supported credentials within your web application.
 
-View the [Digitalpersona Enrollment API](https://hidglobal.github.io/digitalpersona-enrollment/) documentation.
+View the [Digitalpersona Web Enrollment API](https://hidglobal.github.io/digitalpersona-enrollment/) documentation.
 
-View the [Digitalpersona Enrollment API](https://github.com/hidglobal/digitalpersona-enrollment/) repository.
+View the [Digitalpersona Web Enrollment API](https://github.com/hidglobal/digitalpersona-enrollment/) repository.

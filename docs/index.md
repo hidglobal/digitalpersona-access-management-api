@@ -44,12 +44,12 @@ This documentation is divided into several sections that align with the specific
   <tr>
   <td>&nbsp;</td>
   <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
-    <td>API enabling credential authentication</td>
+    <td>Web API enabling credential authentication</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
       <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
-    <td>API enabling credential enrollment</td>
+    <td>Web API enabling credential enrollment</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
