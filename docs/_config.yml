@@ -7,3 +7,7 @@ aux_links:
     - "https://github.com/hidglobal/digitalpersona-access-management-api/blob/master/docs/assets/DigitalPersona-Access-Management-API.pdf"
   "[View Repo]":
     - "https://github.com/hidglobal/digitalpersona-access-management-api/"
+  "Test PDF":
+    - "assets/DigitalPersona-Access-Management-API.pdf"
+
+    <a href="myFile.js" download>Click to Download</a>
