@@ -1,11 +1,3 @@
----
-layout: default
-title: Overview
-nav_exclude: true
----
-{% include header.html %}  
-<BR>  
-
 # Overview
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built web-based and native Windows applications.  
