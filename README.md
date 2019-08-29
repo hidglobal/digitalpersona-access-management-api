@@ -95,7 +95,8 @@ You can refer to the additional resources described in this section to assist yo
   </tr>
   <tr>
     <td valign="top" >Concepts, features, processes and terminology used in DigitalPersona solutions</td>
-    <td valign="top">DigitalPersona AD and LDS Administrator Guides, Client Guide and supporting documentation is available at: <A HREF="https://www.crossmatch.com/company/support/documentation">https://www.crossmatch.com/company/support/documentation </A></td>
+    <td valign="top">DigitalPersona AD and LDS Administrator Guides, Client Guide and supporting documentation is available at:
+      <A HREF="https://www.crossmatch.com/company/support/documentation">https://www.crossmatch.com/company/support/documentation </A></td>
   </tr>
 </table>
 
@@ -137,8 +138,8 @@ Recommended minimum software requirements are the same as for the development sy
 
 The DigitalPersona Access Management API is compatible with the following DigitalPersona products:
 
-* DigitalPersona AD or LDS Workstation 2.1 or later.
+* DigitalPersona AD or LDS Workstation 3.1 or later.
 
-* DigitalPersona AD or LDS Kiosk 2.1 or later.
+* DigitalPersona AD or LDS Kiosk 3.1 or later.
 
-* DigitalPersona AD or LDS AD Server, version 2.1 or later.
+* DigitalPersona AD or LDS AD Server, version 3.1 or later.

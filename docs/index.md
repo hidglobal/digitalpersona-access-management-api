@@ -137,6 +137,6 @@ The following section describes the requirements for the Target System. Recommen
 
 The DigitalPersona Access Management API is compatible with the following HID DigitalPersona products:
 
-* DigitalPersona AD or LDS Workstation 2.1 or later.
-* DigitalPersona AD or LDS Kiosk 2.1 or later.
-* DigitalPersona AD or LDS AD Server, version 2.1 or later.
+* DigitalPersona AD or LDS Workstation 3.1 or later.
+* DigitalPersona AD or LDS Kiosk 3.1 or later.
+* DigitalPersona AD or LDS AD Server, version 3.1 or later.
