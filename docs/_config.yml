@@ -5,5 +5,5 @@ search_enabled: true
 aux_links:
   "[Download Overview PDF]":
     - "assets/DigitalPersona-Access-Management-API.pdf"
-  "[View Repo]":
+  "[View on GitHub]":
     - "https://github.com/hidglobal/digitalpersona-access-management-api/"
