@@ -53,28 +53,28 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td  valign="top">Sample Applications</td>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-web/index.html">Javascript sample application</A></td>
-    <td>Sample web application illustrating web authentication, enrollment and device access.</td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-web/docs/index.html">DigitalPersona Web demo</A></td>
+    <td>Sample program (DPWebDemo.exe) that creates a GUI displaying fields and buttons that showcase the primary features of the DigitalPersona Web Enrollment Services API.</td>
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">Web sample application</A></td>
-    <td>Sample application illustrating web authentication, enrollment and device access.</td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-angularjs\docs\index.html">Bank of DigitalPersona sample</A></td>
+    <td>Sample webite demonstrating typical DigitalPersona Web Access Management API use cases through a fictional Bank of Digitalpersona.</td>
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
-    <td  valign="top"><A HREF="https://hidglobal/github.io/digitalpersona-sample-js-oidc/index.html">OpenID Connect sample application</A></td>
-    <td>Sample JavaScript application using OpenID Connect that illustrates web authentication, enrollment and device access.</td>
+    <td  valign="top"><A HREF="https://hidglobal/github.io/digitalpersona-sample-js-oidc/index.html">OpenID Connect sample</A></td>
+    <td>Sample JavaScript application using OpenID Connect and illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-samples/index.html">Native Windows sample applications</A></td>
-    <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-dotnet/index.md">Native Windows .NET sample</A></td>
+    <td valign="top">.NET sample code for the DigitalPersona Access Management API (Native API)</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-js-oidc/index.html">Bank of DigitalPersona sample application </A></td>
-    <td valign="top">Sample using the DigitalPersona Identity Provider, OpenID Connect, Angular JS SPA and Node.js Express web service.</td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-smaple-cpp/index.md">Native Windows .NET sample</A></td>
+    <td valign="top">C++ sample code for the DigitalPersona Access Management API (Native API)</td>
   </tr>
 </table>
 
