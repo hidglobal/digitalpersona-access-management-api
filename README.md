@@ -38,8 +38,8 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
       <td>&nbsp;</td>
-      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">Credential enrolllment API</A></td>
-    <td>API enabling credential enrollment</td>
+      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">Web credential enrolllment API</A></td>
+    <td>API enabling web-based credential enrollment</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
@@ -73,8 +73,8 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-angularjs/">Bank of DigitalPersona sample application</A></td>
-    <td valign="top">Bank of DigitalPersona sample application using Angular JS.</td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-js-oidc/index.html">Bank of DigitalPersona sample application </A></td>
+    <td valign="top">Sample using the DigitalPersona Identity Provider, OpenID Connect, Angular JS SPA and Node.js Express web service.</td>
   </tr>
 </table>
 
