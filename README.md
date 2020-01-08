@@ -2,7 +2,7 @@
 
 The DigitalPersona Access Management API provides a comprehensive set of components and libraries exposing various functions and methods for using the power of the DigitalPersona platform in your own custom-built web-based and native Windows applications.  
 
-[Sample programs](digitalpersona-samples.md) are also provided, which illustrate the features available through the included APIs.  
+Sample programs, listed in the table below, are also provided, which illustrate the features available through the included APIs.  
 
 This documentation is divided into several sections that align with the specific uses of the various components, APIs and wrappers available.
 
