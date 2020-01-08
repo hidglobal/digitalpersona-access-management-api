@@ -12,64 +12,69 @@ To go directly to detailed documentation on an item, use the links below to view
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
-    <th style="width:20%" ALIGN="left">Section</th>
-    <th style="width:35%" ALIGN="left">Repository & documentation</th>
+    <th style="width:20%" ALIGN="left">Category</th>
+    <th style="width:35%" ALIGN="left">Component&nbsp;or&nbsp;Sample</th>
     <th style="width:45%" ALIGN="left">Purpose</th>
   </tr>
   <tr>
   <td valign="top" >Components</td>
-  <td valign="top" ><A HREF="https://hidglobal.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
+  <td valign="top" ><A HREF="https://hidglobal.github.io/digitalpersona-core/index.html">DigitalPersona API Core</A></td>
     <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-services/index.html">digitalpersona-services</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-services/index.html">Web Access Services API</A></td>
     <td>JS wrappers for the Web Access Services shared by the authentication and enrollment APIs</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-access-management-services/index.html">digitalpersona-access-management-services</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-access-management-services/index.html">Access Management Services API</A></td>
     <td>[TBD]</td>
   </tr>  
   <tr>
   <td>&nbsp;</td>
-  <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
+  <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">Credential Authentication API</A></td>
     <td>API enabling credential authentication</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
+      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">Credential enrolllment API</A></td>
     <td>API enabling credential enrollment</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-devices/index.html">digitalpersona-devices</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-devices/index.html">Device Access API</A></td>
     <td>API providing access to devices supported by the DigitalPersona Access Mangement API.</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/index.html">digitalpersona-native-api</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/index.html">Windows native API</A></td>
     <td>API providing native Windows implementation of enrollment, authentication and device access.</td>
   </tr>
   <tr>
     <td  valign="top">Sample Applications</td>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">digitalpersona-javascript-sample-application</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-web/index.html">Javascript sample application</A></td>
     <td>Sample web application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">digitalpersona-web-sample</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-web-sample/index.html">Web sample application</A></td>
     <td>Sample application illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
-    <td  valign="top"><A HREF="https://hidglobal/github.io/digitalpersona-sample-js-oidc/index.html">digitalpersona-sample-js-oidc</A></td>
+    <td  valign="top"><A HREF="https://hidglobal/github.io/digitalpersona-sample-js-oidc/index.html">OpenID Connect sample application</A></td>
     <td>Sample JavaScript application using OpenID Connect that illustrates web authentication, enrollment and device access.</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-samples/index.html">digitalpersona-native-samples</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-samples/index.html">Native Windows sample applications</A></td>
     <td valign="top">Sample native Windows applications in C++ and .NET, illustrating Windows enrollment, authentication and device access.</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-angularjs/">Bank of DigitalPersona sample application</A></td>
+    <td valign="top">Bank of DigitalPersona sample application using Angular JS.</td>
   </tr>
 </table>
 
