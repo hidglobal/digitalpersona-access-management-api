@@ -53,7 +53,7 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td  valign="top">Sample Applications</td>
-    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-web/docs/index.html">DigitalPersona Web demo</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-web/">DigitalPersona Web demo</A></td>
     <td>Sample program (DPWebDemo.exe) that creates a GUI displaying fields and buttons that showcase the primary features of the DigitalPersona Web Enrollment Services API.</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-smaple-cpp/index.md">Native Windows .NET sample</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-cpp/index.md">Native Windows .NET sample</A></td>
     <td valign="top">C++ sample code for the DigitalPersona Access Management API (Native API)</td>
   </tr>
 </table>
