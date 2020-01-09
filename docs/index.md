@@ -39,7 +39,7 @@ This documentation is divided into several sections that align with the specific
   <tr>
     <td>&nbsp;</td>
     <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-access-management-services/index.html">Access Management Services API</A></td>
-    <td>[TBD]</td>
+    <td>A collection of RESTful services used to implement various features of the DigitalPersona solution in web applications.</td>
   </tr>  
   <tr>
   <td>&nbsp;</td>
