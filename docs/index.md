@@ -43,7 +43,7 @@ This documentation is divided into several sections that align with the specific
   </tr>  
   <tr>
   <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">Web Authentication API</A></td>
-    <td>strengthens your web application security with multifactor authentication (MFA), working seamlessly with various authentication such as fingerprint readers, card readers, cameras for face recognition, FIDO tokens, OTP tokens, as well as with traditional credentials like passwords, PINs and Security Questions.</td>
+    <td>Strengthens your web application security with multifactor authentication (MFA), working seamlessly with various authentication such as fingerprint readers, card readers, cameras for face recognition, FIDO tokens, OTP tokens, as well as with traditional credentials like passwords, PINs and Security Questions.</td>
   </tr>
   <tr>
       <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">Web  Enrolllment API</A></td>
