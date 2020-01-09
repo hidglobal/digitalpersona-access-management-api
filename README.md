@@ -63,7 +63,7 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
-    <td  valign="top"><https://hidglobal.github.io/digitalpersona-sample-js-oidc/">OpenID Connect sample</A></td>
+    <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-js-oidc/">OpenID Connect sample</A></td>
     <td>Sample JavaScript application using OpenID Connect and illustrating web authentication, enrollment and device access.</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ To go directly to detailed documentation on an item, use the links below to view
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-cpp/">Native Windows .NET sample</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-cpp/">Native Windows C++ sample</A></td>
     <td valign="top">C++ sample code for the DigitalPersona Access Management API (Native API)</td>
   </tr>
 </table>
