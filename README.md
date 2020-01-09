@@ -59,7 +59,7 @@ To go directly to detailed documentation on an item, use the links below to view
   <tr>
     <td  valign="top">&nbsp;</td>
     <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-angularjs/">Bank of DigitalPersona sample</A></td>
-    <td>Sample webite demonstrating typical DigitalPersona Web Access Management API use cases through a fictional Bank of Digitalpersona.</td>
+    <td>Sample website demonstrating typical DigitalPersona Web Access Management API use cases through a fictional Bank of Digitalpersona.</td>
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
