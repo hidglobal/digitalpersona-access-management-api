@@ -22,43 +22,43 @@ This documentation is divided into several sections that align with the specific
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
-    <th style="width:20%" ALIGN="left">Section</th>
-    <th style="width:35%" ALIGN="left">Repository & documentation</th>
+    <th style="width:20%" ALIGN="left">Category</th>
+    <th style="width:35%" ALIGN="left">Component&nbsp;or&nbsp;Sample</th>
     <th style="width:45%" ALIGN="left">Purpose</th>
   </tr>
   <tr>
   <td valign="top" >Components</td>
-  <td valign="top" ><A HREF="https://hidglobal.github.io/digitalpersona-core/index.html">digitalpersona-core</A></td>
+  <td valign="top" ><A HREF="https://hidglobal.github.io/digitalpersona-core/index.html">DigitalPersona API Core</A></td>
     <td>Contains the core classes and functions shared by the Access Management APIs.</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-services/index.html">digitalpersona-services</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-services/index.html">Web Access Services API</A></td>
     <td>JS wrappers for the Web Access Services shared by the authentication and enrollment APIs</td>
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-access-management-services/index.html">digitalpersona-access-management-services</A></td>
-    <td>A collection of RESTful services used to implement various features of the DigitalPersona solution in web applications.</td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-access-management-services/index.html">Access Management Services API</A></td>
+    <td>[TBD]</td>
   </tr>  
   <tr>
   <td>&nbsp;</td>
-  <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">digitalpersona-authentication</A></td>
-    <td>Web API enabling credential authentication</td>
+  <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">Credential Authentication API</A></td>
+    <td>API enabling credential authentication</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">digitalpersona-enrollment</A></td>
-    <td>Web API enabling credential enrollment</td>
+      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">Web credential enrolllment API</A></td>
+    <td>API enabling web-based credential enrollment</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-devices/index.html">digitalpersona-devices</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-devices/index.html">Device Access API</A></td>
     <td>API providing access to devices supported by the DigitalPersona Access Mangement API.</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
-    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/index.html">digitalpersona-native-api</A></td>
+    <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-native-api/index.html">Windows native API</A></td>
     <td>API providing native Windows implementation of enrollment, authentication and device access.</td>
   </tr>
   <tr>
