@@ -42,14 +42,12 @@ This documentation is divided into several sections that align with the specific
     <td>A collection of RESTful services used to implement various features of the DigitalPersona solution in web applications.</td>
   </tr>  
   <tr>
-  <td>&nbsp;</td>
-  <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">Credential Authentication API</A></td>
-    <td>API enabling credential authentication</td>
+  <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-authentication/index.html">Web Authentication API</A></td>
+    <td>strengthens your web application security with multifactor authentication (MFA), working seamlessly with various authentication such as fingerprint readers, card readers, cameras for face recognition, FIDO tokens, OTP tokens, as well as with traditional credentials like passwords, PINs and Security Questions.</td>
   </tr>
   <tr>
-      <td>&nbsp;</td>
-      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">Web credential enrolllment API</A></td>
-    <td>API enabling web-based credential enrollment</td>
+      <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-enrollment/index.html">Web  Enrolllment API</A></td>
+    <td>Provides an API for enrollment of user credentials from a web browser.</td>
   </tr>
   <tr>
       <td>&nbsp;</td>
