@@ -6,9 +6,9 @@ Sample programs, listed in the table below, are also provided, which illustrate 
 
 This documentation is divided into several sections that align with the specific uses of the various components, APIs and wrappers available.
 
-To read an overview of each section, on desktop browsers, use the links on the left. For mobile browsers, use the Menu button at the top of the screen.
-
-To go directly to detailed documentation on an item, use the links below to view the GitHub Pages documentation provided with the item's repository. Links to each repository are provided on the first page of its documentation.
+* To read a brief overview of each section, on desktop browsers, use the links on the left. For mobile browsers, use the Menu button at the top of the screen.
+* To read the provided documentation for an item, use the links below.
+* To go to the actual repository, click the [View Repo] link in the upper-right corner of any page within the section's documentation.
 
 <table style="width:95%;margin-left:auto;margin-right:auto;">
   <tr>
