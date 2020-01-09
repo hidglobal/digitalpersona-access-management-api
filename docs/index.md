@@ -69,7 +69,7 @@ This documentation is divided into several sections that align with the specific
   <tr>
     <td  valign="top">&nbsp;</td>
     <td  valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-sample-angularjs/">Bank of DigitalPersona sample</A></td>
-    <td>Sample webite demonstrating typical DigitalPersona Web Access Management API use cases through a fictional Bank of Digitalpersona.</td>
+    <td>Sample website demonstrating typical DigitalPersona Web Access Management API use cases through a fictional Bank of Digitalpersona.</td>
   </tr>
   <tr>
     <td  valign="top">&nbsp;</td>
