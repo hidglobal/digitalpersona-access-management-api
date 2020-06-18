@@ -14,13 +14,13 @@ The DigitalPersona Access Management Services are a collection of RESTful servic
 
 These services are:
 
-- [Web Enrollment Services (WES)](https://hidglobal.github.io/digitalpersona-access-management-services/docs/wes.html)
-- [Web Secret Management Service (WSMS)](https://hidglobal.github.io/digitalpersona-access-management-services/docs/wsms.html)  
-- [Web Authentication Service (WAS)](https://hidglobal.github.io/digitalpersona-access-management-services/docs/wsms.html)
-- [Web Authentication Policy Service (WAPS)](https://hidglobal.github.io/digitalpersona-access-management-services/docs/waps.html)
+- [Web Enrollment Services (WES)](https://hidglobal.github.io/digitalpersona-access-management-services/wes.html)
+- [Web Secret Management Service (WSMS)](https://hidglobal.github.io/digitalpersona-access-management-services/wsms.html)  
+- [Web Authentication Service (WAS)](https://hidglobal.github.io/digitalpersona-access-management-services/wsms.html)
+- [Web Authentication Policy Service (WAPS)](https://hidglobal.github.io/digitalpersona-access-management-services/waps.html)
 
 The last three of the services mentioned above were formerly part of the DigitalPersona Web AUTH SDK.
 
-View the [Access Management Services](https://hidglobal.github.io/digitalpersona-access-management-services/) documentation.
+View the Access Management Services [documentation](https://hidglobal.github.io/digitalpersona-access-management-services/).
 
-View the [digitalpersona-services](https://github.com/hidglobal/digitalpersona-access-management-services/) repository.  
+View the Access Management Services [repository](https://github.com/hidglobal/digitalpersona-access-management-services/).
