@@ -10,7 +10,7 @@ nav_order: 4
 
 # Access Management Services  
 
-The DigitalPersona Access Management Services are a collection of RESTful services used to implement various features of the DigitalPersona solution in web applications.
+The DigitalPersona Access Management Services are a collection of Web services used to implement various features of the DigitalPersona solution in web applications.
 
 These services are:
 
