@@ -29,7 +29,7 @@ This documentation is divided into several sections that align with the specific
   <tr>
     <td>&nbsp;</td>
     <td valign="top"><A HREF="https://hidglobal.github.io/digitalpersona-access-management-services/index.html">Access Management Services API</A></td>
-    <td>A collection of RESTful services used to implement various features of the DigitalPersona solution in web applications.</td>
+    <td>A collection of Web services used to implement various features of the DigitalPersona solution in web applications.</td>
   </tr>  
   <tr>
   <td>&nbsp;</td>
@@ -85,7 +85,7 @@ For Windows native applications, the Native API provides an API which can access
 All of the authentication credentials provided in the DigitalPersona solution are supported through the corresponding APIs except for the Face credential (for web APIs) and the Bluetooth credential (web and Windows APIs).
 
 ## Working environment
-Use of the included APIs assumes that an appropriate DigitalPersona solution has been installed, configured and verified. Features exposed through the Native APIs can be used in a minimal DigitalPersona environment consisting of the DigitalPersona Workstation or DigitalPersona Kiosk and a single DigitalPersona AD or LDS Server. Use of the REST APIs requires the additional installation of the DigitalPersona Web Components package.
+Use of the included APIs assumes that an appropriate DigitalPersona solution has been installed, configured and verified. Features exposed through the Native APIs can be used in a minimal DigitalPersona environment consisting of the DigitalPersona Workstation or DigitalPersona Kiosk and a single DigitalPersona AD or LDS Server. Use of the Web APIs requires the additional installation of the DigitalPersona Web Components package.
 
 ## Target Audience
 Developers should have an understanding of the core components of the DigitalPersona solution and its terminology and concepts. They should also be knowledgeable in the specific target platform and the relevant development language.
@@ -107,7 +107,7 @@ You can refer to the additional resources described in this section to assist yo
 
 # System Requirements
 ## Development system
-### REST APIs
+### Web APIs
 In addition to the requirements listed above, the following are required for use of the Web AUTH and Web Enrollment APIs.
 
 * Windows Web Server (IIS)
